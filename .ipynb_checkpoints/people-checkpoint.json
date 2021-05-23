@@ -1,0 +1,35 @@
+[
+    {
+        "prenom" : "Mamadou",
+        "nom" : "Diallo",
+        "age" : 23,
+        "adresse" : "Paris",
+        "religion" : "musulmane",
+        "salaire" : 3000000
+    },
+    {
+        "prenom" : "Paul",
+        "nom" : "Belmondo",
+        "age" : 45,
+        "adresse" : "Londres",
+        "religion" : "chretien",
+        "salaire" : 500000
+    },
+    {
+        "prenom" : "Jean Moussa",
+        "nom" : "Sow",
+        "age" : 34,
+        "adresse" : "Bamako",
+        "religion" : "musulmane",
+        "salaire" : 1000000
+    },
+    {
+        "prenom" : "Bob Swager",
+        "nom" : "Lee",
+        "age" : 50,
+        "adresse" : "New York",
+        "religion" : "musulmane",
+        "salaire" : 800000
+    }
+    
+]
